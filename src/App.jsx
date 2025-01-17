@@ -143,11 +143,11 @@ function App() {
       </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
-          <img loading='lazy' src={pic16} className='mt-2 mb-2' width={200} />
-          <p>Tấm này trông cute nên dùng làm hình nền khóa màn hình 😁</p>
+          <img loading='lazy' src={pic16} className='mt-2 mb-2' width={250} />
         </div>
         <div className='col-sm-3'>
-          <img loading='lazy' src={pic17} className='mt-2 mb-2' width={300} />
+          <img loading='lazy' src={pic17} className='mt-2 mb-2' width={250} />
+          <p>Tấm này trông cute nên dùng làm hình nền khóa màn hình 😁</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic20} className='mt-2 mb-2' height={400} />
