@@ -55,6 +55,7 @@ import picCloud19 from '../xi_trum/Messenger_creation_e96155fc-b788-4d7f-b8d9-2c
 import picCloud20 from '../xi_trum/Messenger_creation_ecb96d7c-bc93-464e-93ed-bc48db2fe402.jpeg';
 import picCloud21 from '../xi_trum/Messenger_creation_f97db798-806a-449d-943a-d6987823665e.jpeg';
 import picCloud22 from '../xi_trum/Messenger_creation_feca46f9-baa9-4429-a9ed-03d5c92efbfe.jpeg';
+import voiceRecord from '../xi_trum/voice_record.wav';
 
 function App() {
   return (
@@ -65,12 +66,7 @@ function App() {
       <h1 className='text-center'>06/07/2024 - 14/01/2025</h1>
       <div className='text-center mt-5'>
         <audio controls loop>
-          <source
-            autoPlay
-            muted
-            src='xi_trum/voice_record.wav'
-            type='audio/mp3'
-          ></source>
+          <source autoPlay muted src={voiceRecord} type='audio/mp3'></source>
         </audio>
       </div>
       <div className='row mt-5'>
