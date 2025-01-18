@@ -431,8 +431,8 @@ function App() {
             width={600}
           />
           <p>
-            Tấm này nhìn như đang trong buổi triển lãm 🤧 Tay nghề của bé đỉnh
-            của chóp
+            Tấm này nhìn cứ như đang trong buổi triển lãm vậy 🤯 Tay nghề của bé
+            đỉnh của chóp
           </p>
         </div>
         <div className='col-sm-6 text-center'>
