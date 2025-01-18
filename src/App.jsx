@@ -33,6 +33,7 @@ import pic29 from '../xi_trum/Messenger_creation_78802ac5-b460-432c-bb5d-8a355bf
 import pic30 from '../xi_trum/Messenger_creation_49de2ec8-e9ca-4e3e-9062-339409c8e7fd.jpeg';
 import pic31 from '../xi_trum/Screenshot_20240706_190247_Bumble.jpg';
 import pic32 from '../xi_trum/bumble.png';
+import picCloud0 from '../xi_trum/messenger_cloud.png';
 import picCloud1 from '../xi_trum/Messenger_creation_2c19c89a-3c9f-4bb5-adb1-4162eb6a0214.jpeg';
 import picCloud2 from '../xi_trum/Messenger_creation_2f8bbcc9-6861-44fa-a586-19bb4b0a0110.jpeg';
 import picCloud3 from '../xi_trum/Messenger_creation_2fe83c8b-4c6a-41b3-abc5-6a018905923b.jpeg';
@@ -248,6 +249,9 @@ function App() {
         Bởi vì bé có nói với anh rằng bé thích chụp trên đám mây lắm và giờ quen
         anh rồi nên có thêm người để spam hình đám mây 😆
       </h6>
+      <div className='messenger-cloud row mb-5'>
+        <img loading='lazy' src={picCloud0} className='mt-2 mb-2' width={300} />
+      </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
           <img

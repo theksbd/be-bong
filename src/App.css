@@ -3,6 +3,7 @@
   color: rgb(47, 246, 64);
 }
 
+.messenger-cloud img,
 .bumble img {
   border: 1px solid black;
   border-radius: 5px;
