@@ -63,6 +63,16 @@ function App() {
         Kỷ niệm với bé Phạm Vũ Vân Khánh aka bé Bông 🌸
       </h1>
       <h1 className='text-center'>06/07/2024 - 14/01/2025</h1>
+      <div className='text-center mt-5'>
+        <audio controls loop>
+          <source
+            autoPlay
+            muted
+            src='../xi_trum/voice_record.wav'
+            type='audio/mp3'
+          ></source>
+        </audio>
+      </div>
       <div className='row mt-5'>
         <div className='col-sm-6 pt-2'>
           <h3>Hình của bé chụp mà anh thích nhất</h3>
