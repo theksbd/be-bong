@@ -33,6 +33,28 @@ import pic29 from '../xi_trum/Messenger_creation_78802ac5-b460-432c-bb5d-8a355bf
 import pic30 from '../xi_trum/Messenger_creation_49de2ec8-e9ca-4e3e-9062-339409c8e7fd.jpeg';
 import pic31 from '../xi_trum/Screenshot_20240706_190247_Bumble.jpg';
 import pic32 from '../xi_trum/bumble.png';
+import picCloud1 from '../xi_trum/Messenger_creation_2c19c89a-3c9f-4bb5-adb1-4162eb6a0214.jpeg';
+import picCloud2 from '../xi_trum/Messenger_creation_2f8bbcc9-6861-44fa-a586-19bb4b0a0110.jpeg';
+import picCloud3 from '../xi_trum/Messenger_creation_2fe83c8b-4c6a-41b3-abc5-6a018905923b.jpeg';
+import picCloud4 from '../xi_trum/Messenger_creation_3b708a44-3170-49e7-bc97-937d77b8b25a.jpeg';
+import picCloud5 from '../xi_trum/Messenger_creation_3c613063-e764-40c7-b6f8-1a0c67151fbb.jpeg';
+import picCloud6 from '../xi_trum/Messenger_creation_4b7cd490-4f9b-433b-bd93-da38bb6d15cc.jpeg';
+import picCloud7 from '../xi_trum/Messenger_creation_4e52b457-f099-4734-a1d9-e81ff6f27ab7.jpeg';
+import picCloud8 from '../xi_trum/Messenger_creation_5b7c4730-29f2-4b00-b704-0bf94dddeaec.jpeg';
+import picCloud9 from '../xi_trum/Messenger_creation_6bb6de0d-6349-4501-9de1-e3abe377c48d.jpeg';
+import picCloud10 from '../xi_trum/Messenger_creation_30d10c0b-a691-4291-85c1-9e3182f7517e.jpeg';
+import picCloud11 from '../xi_trum/Messenger_creation_44ca3d44-28cd-48a1-8886-77f18727ab58.jpeg';
+import picCloud12 from '../xi_trum/Messenger_creation_56fe3f21-d03f-4137-bd00-d3f32227cc15.jpeg';
+import picCloud13 from '../xi_trum/Messenger_creation_581c52b4-4e07-482c-9a45-4a8d38f88b22.jpeg';
+import picCloud14 from '../xi_trum/Messenger_creation_991b4fc9-d7cb-4853-a7be-8300eeb6927f.jpeg';
+import picCloud15 from '../xi_trum/Messenger_creation_1755ffc8-9e65-41cd-b79f-a780155cdd8e.jpeg';
+import picCloud16 from '../xi_trum/Messenger_creation_2423cf46-bd6c-4ef2-a31e-22a82cc2231b.jpeg';
+import picCloud17 from '../xi_trum/Messenger_creation_a7db229e-cfdf-4efa-8d50-07995e71a531.jpeg';
+import picCloud18 from '../xi_trum/Messenger_creation_ca49da6b-9e9d-4b4f-b97d-83326f131727.jpeg';
+import picCloud19 from '../xi_trum/Messenger_creation_e96155fc-b788-4d7f-b8d9-2c624597db13.jpeg';
+import picCloud20 from '../xi_trum/Messenger_creation_ecb96d7c-bc93-464e-93ed-bc48db2fe402.jpeg';
+import picCloud21 from '../xi_trum/Messenger_creation_f97db798-806a-449d-943a-d6987823665e.jpeg';
+import picCloud22 from '../xi_trum/Messenger_creation_feca46f9-baa9-4429-a9ed-03d5c92efbfe.jpeg';
 
 function App() {
   return (
@@ -83,10 +105,18 @@ function App() {
         <div className='col-sm-3'>
           <img loading='lazy' src={pic1} className='mt-2 mb-2' width={200} />
           <p>Tấm này chụp vào 19/06/2024 - Trước khi gặp bé</p>
+          <p>
+            Đây là tấm hình của anh mà bé bảo bé thích nhất nè, bé còn bắt anh
+            để lại kiểu tóc trong ảnh nữa 😆
+          </p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic2} className='mt-2 mb-2' width={200} />
           <p>Tấm này chụp vào 17/01/2025 - 3 ngày sau khi chúng ta dừng lại</p>
+          <p>
+            Lúc này đang cố tái hiện lại kiểu tóc đó nè, đi uốn lại luôn mà,
+            nhưng tiếc quá chưa kịp demo cho bé xem 🤧
+          </p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic3} className='mt-2 mb-2' width={265} />
@@ -114,13 +144,13 @@ function App() {
       </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
-          <img loading='lazy' src={pic8} className='mt-2 mb-2' width={200} />
+          <img loading='lazy' src={pic8} className='mt-2 mb-2' width={250} />
         </div>
         <div className='col-sm-3'>
-          <img loading='lazy' src={pic9} className='mt-2 mb-2' width={300} />
+          <img loading='lazy' src={pic9} className='mt-2 mb-2' width={250} />
         </div>
         <div className='col-sm-3'>
-          <img loading='lazy' src={pic10} className='mt-2 mb-2' height={500} />
+          <img loading='lazy' src={pic10} className='mt-2 mb-2' height={450} />
           <p>Xinhhhhhhhhhh</p>
         </div>
         <div className='col-sm-3'>
@@ -129,7 +159,7 @@ function App() {
       </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
-          <img loading='lazy' src={pic12} className='mt-2 mb-2' width={200} />
+          <img loading='lazy' src={pic12} className='mt-2 mb-2' width={250} />
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic13} className='mt-2 mb-2' width={300} />
@@ -205,11 +235,215 @@ function App() {
           </p>
         </div>
       </div>
+      <h3 className='mt-5 text-center'>
+        Ngoài ra còn những tấm hình bé chụp trên đám mây share cho anh nè
+      </h3>
+      <h6 className='mt-3 mb-5 text-center'>
+        Bởi vì bé có nói với anh rằng bé thích chụp trên đám mây lắm và giờ quen
+        anh rồi nên có thêm người để spam hình đám mây 😆
+      </h6>
+      <div className='row mb-5'>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud1}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud2}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud3}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud4}
+            className='mt-2 mb-2'
+            width={350}
+          />
+        </div>
+      </div>
+      <div className='row mb-5'>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud5}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud22}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud7}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud8}
+            className='mt-2 mb-2'
+            width={350}
+          />
+        </div>
+      </div>
+      <div className='row mb-5'>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud9}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud10}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud21}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud12}
+            className='mt-2 mb-2'
+            width={350}
+          />
+        </div>
+      </div>
+      <div className='row mb-5'>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud13}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud14}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud15}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud16}
+            className='mt-2 mb-2'
+            width={350}
+          />
+        </div>
+      </div>
+      <div className='row mb-5'>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud17}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud18}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud19}
+            className='mt-2 mb-2'
+            width={300}
+          />
+        </div>
+        <div className='col-sm-3'>
+          <img
+            loading='lazy'
+            src={picCloud20}
+            className='mt-2 mb-2'
+            width={350}
+          />
+        </div>
+      </div>
+      <div className='row mb-5'>
+        <div className='col-sm-6 text-center'>
+          <img
+            loading='lazy'
+            src={picCloud11}
+            className='mt-2 mb-2'
+            width={600}
+          />
+          <p>
+            Tấm này nhìn như đang trong buổi triển lãm 🤧 Tay nghề của bé đỉnh
+            của chóp
+          </p>
+        </div>
+        <div className='col-sm-6 text-center'>
+          <img
+            loading='lazy'
+            src={picCloud6}
+            className='mt-2 mb-2'
+            width={600}
+          />
+          <p>
+            Tấm này được chính bé dùng làm hình nền trên facebook và cũng là 1
+            trong những tấm hình trên profile Bumble 😁 Chắc bé tâm đắc với tấm
+            này lắm
+          </p>
+        </div>
+      </div>
       <div className='bumble row text-center mb-5'>
         <div className='col'>
           <img loading='lazy' src={pic32} className='mt-2 mb-2' width={1200} />
           <p>30/06/2024 - Nơi mọi thứ thực sự bắt đầu 😁</p>
-          <p>
+          <p className='fw-bold text-uppercase text-success'>
             Nhắc lại, anh không bao giờ hối hận về cái quẹt phải của mình 😁
           </p>
         </div>
@@ -221,6 +455,10 @@ function App() {
           <h4>
             Cảm ơn em đã đến bên anh, cảm ơn em đã chịu đựng những lần anh làm
             em thất vọng
+          </h4>
+          <h4>
+            Cảm ơn em đã dạy cho anh biết cách yêu thương, cách quan tâm, cách
+            thể hiện tình cảm của mình mặc dù anh là đứa chậm tiếp thu
           </h4>
           <h4>
             Cảm ơn em trong suốt 193 ngày qua, tương đương 6 tháng 9 ngày ở bên
@@ -235,10 +473,6 @@ function App() {
             Anh xin lỗi vì những lần anh không thể hiểu em, không ở bên em những
             lúc em cần
           </h4>
-          <h4>
-            Anh xin lỗi vì đã để em thốt ra rằng 1 phần trong em cảm thấy hối
-            hận khi quẹt phải
-          </h4>
         </div>
         <div className='mb-5'>
           <h4>
@@ -246,9 +480,9 @@ function App() {
             thể thỏa sức bung mình
           </h4>
           <h4>
-            Anh hong còn ở đó để support em nữa, em phải cố lên nha, em hãy luôn
-            là chính mình em nhé, hãy luôn mạnh dạn đấm bất kỳ chướng ngại vật
-            nào
+            Anh không còn ở đó để support em nữa, em phải cố lên nha, em hãy
+            luôn là chính mình em nhé, hãy luôn mạnh dạn đấm bất kỳ chướng ngại
+            vật nào
           </h4>
           <h4>
             Anh Hoàng IT 1m8, tập gym 6 múi, đẹp trai, anh Hoàng khủng long
@@ -259,7 +493,7 @@ function App() {
       </div>
       <footer>
         <p className='text-center'>
-          Copyright © by{' '}
+          &copy; Copyright by{' '}
           <a
             href='https://github.com/theksbd/be-bong'
             target='_blank'

@@ -1,5 +1,5 @@
 .custom-container h1 {
-  margin-top: 10px;;
+  margin-top: 10px;
   color: rgb(47, 246, 64);
 }
 
@@ -17,4 +17,16 @@ footer {
 
 footer p {
   margin: 0;
+}
+
+footer a {
+  color: #000;
+}
+
+footer a:hover {
+  color: #fff;
+}
+
+footer a:link {
+  text-decoration: none;
 }
