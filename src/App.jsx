@@ -113,7 +113,7 @@ function App() {
           <img loading='lazy' src={pic1} className='mt-2 mb-2' width={200} />
           <p>Tấm này chụp vào 19/06/2024 - Trước khi gặp bé</p>
           <p>
-            Đây là tấm hình của anh mà bé bảo bé thích nhất nè, bé còn bắt anh
+            Đây là tấm hình của anh mà bé bảo bé thích nhất nè, bé còn đòi anh
             để lại kiểu tóc trong ảnh nữa 😆
           </p>
         </div>
