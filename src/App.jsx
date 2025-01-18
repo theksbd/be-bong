@@ -68,7 +68,7 @@ function App() {
           <source
             autoPlay
             muted
-            src='../xi_trum/voice_record.wav'
+            src='xi_trum/voice_record.wav'
             type='audio/mp3'
           ></source>
         </audio>
