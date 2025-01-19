@@ -32,7 +32,8 @@ import pic28 from '../xi_trum/Messenger_creation_2ed68d72-b95d-42ee-8604-e7e03cb
 import pic29 from '../xi_trum/Messenger_creation_78802ac5-b460-432c-bb5d-8a355bf47e48.jpeg';
 import pic30 from '../xi_trum/Messenger_creation_49de2ec8-e9ca-4e3e-9062-339409c8e7fd.jpeg';
 import pic31 from '../xi_trum/Screenshot_20240706_190247_Bumble.jpg';
-import pic32 from '../xi_trum/bumble.png';
+import pic32 from '../xi_trum/20241202_141800.jpg';
+import picBumble from '../xi_trum/bumble.png';
 import picCloud0 from '../xi_trum/messenger_cloud.png';
 import picCloud1 from '../xi_trum/Messenger_creation_2c19c89a-3c9f-4bb5-adb1-4162eb6a0214.jpeg';
 import picCloud2 from '../xi_trum/Messenger_creation_2f8bbcc9-6861-44fa-a586-19bb4b0a0110.jpeg';
@@ -239,6 +240,17 @@ function App() {
           <p>
             Còn đây là tấm hình trên Bumble, cũng là tấm hình gây ấn tượng ban
             đầu với anh và cũng là nơi khởi đầu mọi thứ
+          </p>
+        </div>
+        <div className='col-sm-3'>
+          <img loading='lazy' src={pic32} className='mt-2 mb-2' width={250} />
+          <p>
+            Đây là tấm hình theo trend Sigma em gửi bên Zalo 🤡 - 02/12/2024
+            14:18:00
+          </p>
+          <p>
+            Lúc đó anh đang cực kỳ buồn ngủ nhưng nhìn thấy tấm hình này cái anh
+            tỉnh ngủ luôn 🗿😆🤡
           </p>
         </div>
       </div>
@@ -451,7 +463,12 @@ function App() {
       </div>
       <div className='bumble row text-center mb-5'>
         <div className='col'>
-          <img loading='lazy' src={pic32} className='mt-2 mb-2' width={1200} />
+          <img
+            loading='lazy'
+            src={picBumble}
+            className='mt-2 mb-2'
+            width={1200}
+          />
           <p>30/06/2024 - Nơi mọi thứ thực sự bắt đầu 😁</p>
           <p className='fw-bold text-uppercase text-success'>
             Nhắc lại, anh không bao giờ hối hận về cái quẹt phải của mình 😁
