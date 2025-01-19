@@ -58,6 +58,7 @@ import picCloud20 from '../xi_trum/Messenger_creation_ecb96d7c-bc93-464e-93ed-bc
 import picCloud21 from '../xi_trum/Messenger_creation_f97db798-806a-449d-943a-d6987823665e.jpeg';
 import picCloud22 from '../xi_trum/Messenger_creation_feca46f9-baa9-4429-a9ed-03d5c92efbfe.jpeg';
 import voiceRecord from '../xi_trum/voice_record.wav';
+import xiTrumNote from '../xi_trum/xi_trum_note.jpg';
 
 function App() {
   return (
@@ -249,7 +250,7 @@ function App() {
             14:18:00
           </p>
           <p>
-            Lúc đó anh đang cực kỳ buồn ngủ nhưng nhìn thấy tấm hình này cái anh
+            Lúc đó anh đang cực kỳ buồn ngủ nhưng nhìn thấy tấm hình này anh
             tỉnh ngủ luôn 🗿😆🤡
           </p>
         </div>
@@ -459,6 +460,18 @@ function App() {
             trong những tấm hình trên profile Bumble 😁 Chắc bé tâm đắc với tấm
             này lắm
           </p>
+        </div>
+      </div>
+      <div className='note row text-center mb-5'>
+        <div className='col'>
+          <h3>Còn đây là tấm ảnh anh cap màn hình điện thoại của anh lại</h3>
+          <img
+            loading='lazy'
+            src={xiTrumNote}
+            className='mt-3 mb-3'
+            width={500}
+          />
+          <p>Đây là cái note anh tự soạn để hiểu hơn về bé á 😁 - 07/06/2024</p>
         </div>
       </div>
       <div className='bumble row text-center mb-5'>
