@@ -59,6 +59,7 @@ import picCloud21 from '../xi_trum/Messenger_creation_f97db798-806a-449d-943a-d6
 import picCloud22 from '../xi_trum/Messenger_creation_feca46f9-baa9-4429-a9ed-03d5c92efbfe.jpeg';
 import voiceRecord from '../xi_trum/voice_record.wav';
 import xiTrumNote from '../xi_trum/xi_trum_note.jpg';
+import xiTrumPhoneCapture from '../xi_trum/XiTrumPhoneCapture.jpg';
 
 function App() {
   return (
@@ -464,25 +465,47 @@ function App() {
       </div>
       <div className='note row text-center mb-5'>
         <div className='col'>
-          <h3>Còn đây là tấm ảnh anh cap màn hình điện thoại của anh lại</h3>
+          <h3>
+            Đây là tấm ảnh anh cap màn hình điện thoại của anh lại về cái note
+          </h3>
           <img
             loading='lazy'
             src={xiTrumNote}
             className='mt-3 mb-3'
             width={500}
           />
-          <p>Đây là cái note anh tự soạn để hiểu hơn về bé á 😁 - 07/06/2024</p>
+          <p>
+            Note anh tự soạn từ những ngày đầu về những điều nhỏ nhặt để hiểu
+            hơn về bé á 😁 - 07/06/2024
+          </p>
+        </div>
+      </div>
+      <div className='xi-trum-phone-capture row text-center mb-5'>
+        <div className='col'>
+          <h3>
+            Còn đây là tấm ảnh em cap màn hình điện thoại của em lại về album
+            ảnh của anh 😁
+          </h3>
+          <img
+            loading='lazy'
+            src={xiTrumPhoneCapture}
+            className='mt-3 mb-3'
+            width={500}
+          />
+          <p>
+            Điều đó chứng minh rằng anh đã từng có mặt trong album ảnh của em 😁
+          </p>
         </div>
       </div>
       <div className='bumble row text-center mb-5'>
         <div className='col'>
+          <h3>30/06/2024 - Nơi mọi thứ thực sự bắt đầu 😁</h3>
           <img
             loading='lazy'
             src={picBumble}
             className='mt-2 mb-2'
             width={1200}
           />
-          <p>30/06/2024 - Nơi mọi thứ thực sự bắt đầu 😁</p>
           <p className='fw-bold text-uppercase text-success'>
             Nhắc lại, anh không bao giờ hối hận về cái quẹt phải của mình 😁
           </p>
