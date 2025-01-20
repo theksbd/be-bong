@@ -77,7 +77,7 @@ function App() {
         <div className='col-sm-6 pt-2'>
           <h3>Hình của bé chụp mà anh thích nhất</h3>
           <h6>
-            Đây là tấm hình của bé chụp mà anh ưng nhất nhưng anh quên nói với
+            Đây là tấm hình của bé chụp mà anh thích nhất nhưng anh quên nói với
             bé
           </h6>
           <img
@@ -257,10 +257,10 @@ function App() {
         </div>
       </div>
       <h3 className='mt-5 text-center'>
-        Ngoài ra còn những tấm hình bé chụp trên đám mây share cho anh nè
+        Ngoài ra còn những tấm hình bé chụp đám mây share cho anh nè
       </h3>
       <h6 className='mt-3 mb-5 text-center'>
-        Bởi vì bé có nói với anh rằng bé thích chụp trên đám mây lắm và giờ quen
+        Bởi vì bé có nói với anh rằng bé thích chụp mây lắm và giờ quen
         anh rồi nên có thêm người để spam hình đám mây 😆
       </h6>
       <div className='messenger-cloud row mb-5'>
