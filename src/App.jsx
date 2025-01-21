@@ -511,7 +511,7 @@ function App() {
           </p>
         </div>
       </div>
-      {/* Lời cảm ơn */}
+      {/* Lời kết */}
       <div className='text-center mb-5'>
         <h1 className='mt-5 mb-2'>Lời kết</h1>
         <div className='mb-5'>
@@ -525,7 +525,7 @@ function App() {
           </h4>
           <h4>
             Cảm ơn em trong suốt 193 ngày qua, tương đương 6 tháng 9 ngày ở bên
-            nhau đã cho anh biết thế nào là yêu, thế nào là hạnh phúc
+            nhau đã cho anh biết thế nào là yêu và được yêu, thế nào là hạnh phúc
           </h4>
         </div>
         <div className='mb-5'>
@@ -539,7 +539,7 @@ function App() {
         </div>
         <div className='mb-5'>
           <h4>
-            Chúc em tìm được đúng đam mê của mình, tìm được đúng nơi mà em có
+            Chúc em thuận lợi trong công việc của mình, tìm được đúng đam mê, đúng nơi mà em có
             thể thỏa sức bung mình
           </h4>
           <h4>
