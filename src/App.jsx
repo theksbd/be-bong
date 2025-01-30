@@ -493,7 +493,7 @@ function App() {
             width={500}
           />
           <p>
-            Điều đó chứng minh rằng anh đã từng có một album ảnh riêng trong điện thoại của em 🥺🥹😁
+            Điều đó chứng minh rằng anh đã từng có một album ảnh riêng trong điện thoại của em 🥺🤧😁
           </p>
         </div>
       </div>
