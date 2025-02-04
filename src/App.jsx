@@ -526,7 +526,7 @@ function App() {
             loading='lazy'
             src={xiTrumGift}
             className='mt-3 mb-3'
-            width={500}
+            width={700}
           />
           <p>
             Bình nước giữ nhiệt 1.5L (món quà 100000/10), tuýt dưỡng môi LUCAS'
