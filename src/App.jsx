@@ -57,9 +57,10 @@ import picCloud19 from '../xi_trum/Messenger_creation_e96155fc-b788-4d7f-b8d9-2c
 import picCloud20 from '../xi_trum/Messenger_creation_ecb96d7c-bc93-464e-93ed-bc48db2fe402.jpeg';
 import picCloud21 from '../xi_trum/Messenger_creation_f97db798-806a-449d-943a-d6987823665e.jpeg';
 import picCloud22 from '../xi_trum/Messenger_creation_feca46f9-baa9-4429-a9ed-03d5c92efbfe.jpeg';
-import voiceRecord from '../xi_trum/voice_record.wav';
+import voiceRecord from '../xi_trum/xi_trum_voice_record.wav';
 import xiTrumNote from '../xi_trum/xi_trum_note.jpg';
 import xiTrumPhoneCapture from '../xi_trum/XiTrumPhoneCapture.jpg';
+import xiTrumGift from '../xi_trum/XiTrumGift.jpg';
 
 function App() {
   return (
@@ -88,6 +89,7 @@ function App() {
             alt='Hình của bé chụp mà anh thích nhất'
           />
           <p>Mặt mộc nhưng xinh cựccccc</p>
+          <p>01/12/2024 05:20 PM</p>
         </div>
         <div className='col-sm-6 pt-2'>
           <h3>Hình của tụi mình mà anh thích nhất</h3>
@@ -114,7 +116,7 @@ function App() {
       <div className='row mb-5'>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic1} className='mt-2 mb-2' width={200} />
-          <p>Tấm này chụp vào 19/06/2024 - Trước khi gặp bé</p>
+          <p>Tấm này chụp vào 09/06/2024 - Trước khi gặp bé</p>
           <p>
             Đây là tấm hình của anh mà bé bảo bé thích nhất nè, bé còn đòi anh
             để lại kiểu tóc trong ảnh nữa 😆
@@ -130,9 +132,11 @@ function App() {
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic3} className='mt-2 mb-2' width={265} />
+          <p>09/06/2024 05:59 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic4} className='mt-2 mb-2' width={350} />
+          <p>15/12/2024 11:23 AM</p>
         </div>
       </div>
       <div className='row mb-5'>
@@ -146,68 +150,85 @@ function App() {
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic24} className='mt-2 mb-2' height={400} />
-          <p>Móc khóa đôi nèeee</p>
+          <p>Móc khóa đôi kỷ niệm 1 tháng nèeee - 10/08/2024 11:53 AM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic7} className='mt-2 mb-2' height={400} />
+          <p>09/12/2024 10:08 AM</p>
         </div>
       </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic8} className='mt-2 mb-2' width={250} />
+          <p>04/12/2024 09:37 AM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic9} className='mt-2 mb-2' width={250} />
+          <p>30/11/2024 09:06 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic10} className='mt-2 mb-2' height={450} />
           <p>Xinhhhhhhhhhh</p>
+          <p>28/11/2024 11:08 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic11} className='mt-2 mb-2' height={400} />
+          <p>28/11/2024 11:08 PM</p>
         </div>
       </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic12} className='mt-2 mb-2' width={250} />
+          <p>28/11/2024 11:08 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic13} className='mt-2 mb-2' width={300} />
+          <p>28/11/2024 11:08 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic14} className='mt-2 mb-2' height={400} />
+          <p>28/11/2024 11:08 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic15} className='mt-2 mb-2' height={400} />
+          <p>28/11/2024 07:37 PM</p>
         </div>
       </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic16} className='mt-2 mb-2' width={250} />
+          <p>20/12/2024 06:48 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic17} className='mt-2 mb-2' width={250} />
           <p>Tấm này trông cute nên dùng làm hình nền khóa màn hình 😁</p>
+          <p>28/11/2024 07:37 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic20} className='mt-2 mb-2' height={400} />
+          <p>10/09/2024 12:57 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic21} className='mt-2 mb-2' height={400} />
+          <p>08/09/2024 02:30 PM</p>
         </div>
       </div>
       <div className='row mb-5'>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic18} className='mt-2 mb-2' width={250} />
+          <p>21/10/2024 07:45 AM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic19} className='mt-2 mb-2' width={300} />
+          <p>18/09/2024 09:07 AM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic23} className='mt-2 mb-2' height={400} />
+          <p>06/09/2024 05:41 PM</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic22} className='mt-2 mb-2' height={400} />
+          <p>06/09/2024 05:41 PM</p>
         </div>
       </div>
       <div className='row mb-5'>
@@ -260,8 +281,8 @@ function App() {
         Ngoài ra còn những tấm hình bé chụp đám mây share cho anh nè
       </h3>
       <h6 className='mt-3 mb-5 text-center'>
-        Bởi vì bé có nói với anh rằng bé thích chụp mây lắm và giờ quen
-        anh rồi nên có thêm người để spam hình đám mây 😆
+        Bởi vì bé có nói với anh rằng bé thích chụp mây lắm và giờ quen anh rồi
+        nên có thêm người để spam hình đám mây 😆
       </h6>
       <div className='messenger-cloud row mb-5'>
         <img loading='lazy' src={picCloud0} className='mt-2 mb-2' width={300} />
@@ -445,7 +466,7 @@ function App() {
             width={600}
           />
           <p>
-            Tấm này nhìn cứ như đang trong buổi triển lãm vậy 🤯 Tay nghề của bé
+            Tấm này nhìn cứ như đang trong buổi triển lãm vậy 🤯 Tay nghề bé là
             đỉnh của chóp
           </p>
         </div>
@@ -493,8 +514,29 @@ function App() {
             width={500}
           />
           <p>
-            Điều đó chứng minh rằng anh đã từng có một album ảnh riêng trong điện thoại của em 🥺🤧😁
+            Điều đó chứng minh rằng anh đã từng có một album ảnh riêng trong
+            điện thoại của em 🥺🤧😁
           </p>
+        </div>
+      </div>
+      <div className='xi-trum-gift row text-center mb-5'>
+        <div className='col'>
+          <h3>Ta đaaaaa, quà của bé tặng anh nè 😁</h3>
+          <img
+            loading='lazy'
+            src={xiTrumGift}
+            className='mt-3 mb-3'
+            width={500}
+          />
+          <p>
+            Bình nước giữ nhiệt 1.5L (món quà 100000/10), tuýt dưỡng môi LUCAS'
+            PAPAW OINTMENT
+          </p>
+          <p>
+            Mấy miếng dán mỏi vai do tập gym nhiều và cái pad chuột siêu to siêu
+            dày của nhà SteelSeries nè
+          </p>
+          <p>Anh sẽ dùng nó để làm hình nền Facebook của anh, hehe 😁</p>
         </div>
       </div>
       <div className='bumble row text-center mb-5'>
@@ -525,7 +567,8 @@ function App() {
           </h4>
           <h4>
             Cảm ơn em trong suốt 193 ngày qua, tương đương 6 tháng 9 ngày ở bên
-            nhau đã cho anh biết thế nào là yêu và được yêu, thế nào là hạnh phúc
+            nhau đã cho anh biết thế nào là yêu và được yêu, thế nào là hạnh
+            phúc
           </h4>
         </div>
         <div className='mb-5'>
@@ -539,8 +582,8 @@ function App() {
         </div>
         <div className='mb-5'>
           <h4>
-            Chúc em thuận lợi trong công việc của mình, tìm được đúng đam mê, đúng nơi mà em có
-            thể thỏa sức bung mình
+            Chúc em thuận lợi trong công việc của mình, tìm được đúng đam mê,
+            đúng nơi mà em có thể thỏa sức bung mình
           </h4>
           <h4>
             Anh không còn ở đó để support em nữa, em phải cố lên nha, em hãy
