@@ -60,7 +60,11 @@ import picCloud22 from '../xi_trum/Messenger_creation_feca46f9-baa9-4429-a9ed-03
 import voiceRecord from '../xi_trum/xi_trum_voice_record.wav';
 import xiTrumNote from '../xi_trum/xi_trum_note.jpg';
 import xiTrumPhoneCapture from '../xi_trum/XiTrumPhoneCapture.jpg';
-import xiTrumGift from '../xi_trum/XiTrumGift.jpg';
+import xiTrumGiftVacuumFlask from '../xi_trum/XiTrumGiftVacuumFlask.jpg';
+import xiTrumGiftPainReliefPatch from '../xi_trum/XiTrumGiftPainReliefPatch.jpg';
+import xiTrumGiftLucasPapawOintment from '../xi_trum/XiTrumGiftLucasPapawOintment.jpg';
+import xiTrumGiftKeyChain from '../xi_trum/XiTrumGiftKeyChain.jpg';
+import xiTrumGiftEartip from '../xi_trum/XiTrumGiftEartip.jpg';
 
 function App() {
   return (
@@ -235,6 +239,7 @@ function App() {
         <div className='col-sm-3'>
           <img loading='lazy' src={pic25} className='mt-2 mb-2' width={250} />
           <p>Những tấm hình em chụp trước buổi first date để nhá hàng nè 😆</p>
+          <p>Tấm này em bảo có tí bánh Oreo dính trên răng 🤡</p>
         </div>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic26} className='mt-2 mb-2' width={300} />
@@ -524,19 +529,58 @@ function App() {
           <h3>Ta đaaaaa, quà của bé tặng anh nè 😁</h3>
           <img
             loading='lazy'
-            src={xiTrumGift}
-            className='mt-3 mb-3'
-            width={700}
+            src={xiTrumGiftVacuumFlask}
+            className='mt-3 mb-3 img-vacuum-flask'
+            width={800}
           />
-          <p>
-            Bình nước giữ nhiệt 1.5L (món quà 100000/10), tuýt dưỡng môi LUCAS'
-            PAPAW OINTMENT
-          </p>
-          <p>
-            Mấy miếng dán mỏi vai do tập gym nhiều và cái pad chuột siêu to siêu
-            dày của nhà SteelSeries nè
-          </p>
-          <p>Anh sẽ dùng nó để làm hình nền Facebook của anh, hehe 😁</p>
+          <p>Bình nước giữ nhiệt 1.5L - Món quà này là 100000/10</p>
+          <p>Anh cũng dùng nó để làm hình nền Facebook của anh, hehe 😁</p>
+        </div>
+        <div className='row mt-3'>
+          <div className='col-sm-3'>
+            <img
+              loading='lazy'
+              src={xiTrumGiftPainReliefPatch}
+              className='mt-2 mb-2'
+              width={300}
+            />
+            <p>Mấy miếng dán mỏi vai do tập gym nhiều (bé chu đáo quóoo 🥺)</p>
+          </div>
+          <div className='col-sm-3'>
+            <img
+              loading='lazy'
+              src={xiTrumGiftLucasPapawOintment}
+              className='mt-2 mb-2'
+              width={300}
+            />
+            <p>Tuýt dưỡng môi LUCAS' PAPAW OINTMENT</p>
+          </div>
+          <div className='col-sm-3'>
+            <img
+              loading='lazy'
+              src={xiTrumGiftKeyChain}
+              className='mt-2 mb-2'
+              width={300}
+            />
+            <p>Bé mua tặng dịp kỷ niệm 1 tháng - Móc khóa đôi với bé nè</p>
+          </div>
+          <div className='col-sm-3'>
+            <img
+              loading='lazy'
+              src={xiTrumGiftEartip}
+              className='mt-2 mb-2'
+              width={300}
+            />
+            <p>
+              Bé thấy mấy cái mút tai nghe của anh bị hư hết nên bé lấy của bé
+              cho anh 🤧
+            </p>
+          </div>
+          <h3 className='mt-5 mb-2'>
+            Và ngoài ra còn cái pad chuột siêu to siêu dày của nhà SteelSeries
+            đang hiện hữu trong từng tấm hình ở phía trên nè (thêm 1 món quà
+            100000/10 nữa 😁)
+          </h3>
         </div>
       </div>
       <div className='bumble row text-center mb-5'>
