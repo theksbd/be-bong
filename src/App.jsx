@@ -98,7 +98,7 @@ function App() {
         <div className='col-sm-6 pt-2'>
           <h3>Hình của tụi mình mà anh thích nhất</h3>
           <h6>
-            Đây là tấm hình của anh chụp ở Aeon Mall Tân Phú ngày 06/07/2024
+            Đây là tấm hình chụp ở Aeon Mall Tân Phú hôm first date 06/07/2024
             13:31:33, cũng là tấm hình đầu tiên của tụi mình chụp với nhau
           </h6>
           <img
@@ -201,7 +201,9 @@ function App() {
       <div className='row mb-5'>
         <div className='col-sm-3'>
           <img loading='lazy' src={pic17} className='mt-2 mb-2' width={250} />
-          <p>Tấm này trông cute nên dùng làm hình nền khóa màn hình 😁</p>
+          <p>
+            Tấm này trông cute nên dùng làm hình nền khóa màn hình điện thoại 😁
+          </p>
           <p>28/11/2024 07:37 PM</p>
         </div>
         <div className='col-sm-3'>
@@ -266,8 +268,12 @@ function App() {
         <div className='col-sm-3'>
           <img loading='lazy' src={pic31} className='mt-2 mb-2' height={400} />
           <p>
-            Còn đây là tấm hình trên Bumble, cũng là tấm hình gây ấn tượng ban
+            Còn đây là avatar của bé trên Bumble, là tấm hình gây ấn tượng ban
             đầu với anh và cũng là nơi khởi đầu mọi thứ
+          </p>
+          <p>
+            Đây cũng từng là hình nền khóa màn hình điện thoại trong suốt vài
+            tháng đầu tụi mình quen nhau cho đến khi tấm trên kia thay thế 😆
           </p>
         </div>
         <div className='col-sm-3'>
