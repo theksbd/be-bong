@@ -489,7 +489,7 @@ function App() {
             width={600}
           />
           <p>
-            Tấm này được chính bé dùng làm hình nền trên facebook và cũng là 1
+            Tấm này được chính bé dùng làm hình nền trên Facebook và cũng là 1
             trong những tấm hình trên profile Bumble 😁 Chắc bé tâm đắc với tấm
             này lắm
           </p>
@@ -540,7 +540,9 @@ function App() {
             width={800}
           />
           <p>Bình nước giữ nhiệt 1.5L - Món quà này là 100000/10</p>
-          <p>Anh cũng dùng nó để làm hình nền Facebook của anh, hehe 😁</p>
+          <p>
+            Anh cũng dùng tấm hình này để làm hình nền Facebook của anh, hehe 😁
+          </p>
         </div>
         <div className='row mt-3'>
           <div className='col-sm-3'>
