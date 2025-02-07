@@ -508,7 +508,7 @@ function App() {
           />
           <p>
             Note anh tự soạn từ những ngày đầu về những điều nhỏ nhặt để hiểu
-            hơn về bé á 😁 - 07/06/2024
+            hơn về bé á 😁 - 06/07/2024
           </p>
         </div>
       </div>
