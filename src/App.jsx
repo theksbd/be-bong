@@ -272,7 +272,7 @@ function App() {
             đầu với anh và cũng là nơi khởi đầu mọi thứ
           </p>
           <p>
-            Đây cũng từng là hình nền khóa màn hình điện thoại trong suốt vài
+            Đây cũng từng là hình nền khóa màn hình điện thoại của anh trong suốt vài
             tháng đầu tụi mình quen nhau cho đến khi tấm trên kia thay thế 😆
           </p>
         </div>
