@@ -65,6 +65,7 @@ import xiTrumGiftPainReliefPatch from '../xi_trum/XiTrumGiftPainReliefPatch.jpg'
 import xiTrumGiftLucasPapawOintment from '../xi_trum/XiTrumGiftLucasPapawOintment.jpg';
 import xiTrumGiftKeyChain from '../xi_trum/XiTrumGiftKeyChain.jpg';
 import xiTrumGiftEartip from '../xi_trum/XiTrumGiftEartip.jpg';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
@@ -661,6 +662,7 @@ function App() {
           </a>
         </p>
       </footer>
+      <Analytics />
     </div>
   );
 }
