@@ -33,6 +33,7 @@ import pic29 from '../xi_trum/Messenger_creation_78802ac5-b460-432c-bb5d-8a355bf
 import pic30 from '../xi_trum/Messenger_creation_49de2ec8-e9ca-4e3e-9062-339409c8e7fd.jpeg';
 import pic31 from '../xi_trum/Screenshot_20240706_190247_Bumble.jpg';
 import pic32 from '../xi_trum/20241202_141800.jpg';
+import pic33 from '../xi_trum/XiTrum_22092024_1317.jpg';
 import picBumble from '../xi_trum/bumble.png';
 import picCloud0 from '../xi_trum/messenger_cloud.png';
 import picCloud1 from '../xi_trum/Messenger_creation_2c19c89a-3c9f-4bb5-adb1-4162eb6a0214.jpeg';
@@ -65,7 +66,7 @@ import xiTrumGiftPainReliefPatch from '../xi_trum/XiTrumGiftPainReliefPatch.jpg'
 import xiTrumGiftLucasPapawOintment from '../xi_trum/XiTrumGiftLucasPapawOintment.jpg';
 import xiTrumGiftKeyChain from '../xi_trum/XiTrumGiftKeyChain.jpg';
 import xiTrumGiftEartip from '../xi_trum/XiTrumGiftEartip.jpg';
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
@@ -273,8 +274,9 @@ function App() {
             đầu với anh và cũng là nơi khởi đầu mọi thứ
           </p>
           <p>
-            Đây cũng từng là hình nền khóa màn hình điện thoại của anh trong suốt vài
-            tháng đầu tụi mình quen nhau cho đến khi tấm trên kia thay thế 😆
+            Đây cũng từng là hình nền khóa màn hình điện thoại của anh trong
+            suốt vài tháng đầu tụi mình quen nhau cho đến khi tấm trên kia thay
+            thế 😆
           </p>
         </div>
         <div className='col-sm-3'>
@@ -286,6 +288,15 @@ function App() {
           <p>
             Lúc đó anh đang cực kỳ buồn ngủ nhưng nhìn thấy tấm hình này anh
             tỉnh ngủ luôn 🗿😆🤡
+          </p>
+        </div>
+      </div>
+      <div className='row mb-5'>
+        <div className='col-sm-3'>
+          <img loading='lazy' src={pic33} className='mt-2 mb-2' width={300} />
+          <p>
+            Bạn của bé chụp cho bé sau khi bé vừa thay kính nè - 22/09/2024
+            01:17 PM
           </p>
         </div>
       </div>
