@@ -34,6 +34,7 @@ import pic30 from '../xi_trum/Messenger_creation_49de2ec8-e9ca-4e3e-9062-339409c
 import pic31 from '../xi_trum/Screenshot_20240706_190247_Bumble.jpg';
 import pic32 from '../xi_trum/20241202_141800.jpg';
 import pic33 from '../xi_trum/XiTrum_22092024_1317.jpg';
+import pic34 from '../xi_trum/XiTrum_Locket.jpg';
 import picBumble from '../xi_trum/bumble.png';
 import picCloud0 from '../xi_trum/messenger_cloud.png';
 import picCloud1 from '../xi_trum/Messenger_creation_2c19c89a-3c9f-4bb5-adb1-4162eb6a0214.jpeg';
@@ -297,6 +298,13 @@ function App() {
           <p>
             Bạn của bé chụp cho bé sau khi bé vừa thay kính nè - 22/09/2024
             01:17 PM
+          </p>
+        </div>
+        <div className='col-sm-3'>
+          <img loading='lazy' src={pic34} className='mt-2 mb-2' width={300} />
+          <p>
+            Ảnh Locket anh chụp bé ăn cá viên chiên ở Nguyễn Xuân Khoát nè -
+            12/12/2024
           </p>
         </div>
       </div>
